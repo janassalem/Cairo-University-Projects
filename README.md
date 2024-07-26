@@ -6,9 +6,8 @@ Welcome to my repository for university projects! Here, you'll find a collection
 
 1. [Introduction](#introduction)
 2. [Projects](#projects)
-   - [Project 1: Project Name](#AirLineManagmentSystem)
-   - [Project 2: Project Name](#project-2-project-name)
-   - [Project 3: Project Name](#project-3-project-name)
+   - [Project 1:Air Line Managment System ](#AirLineManagmentSystem)
+   - [Project 2: AirLineSystem](#AirLineSystem)
 3. [Technologies Used](#technologies-used)
 4. [Installation](#installation)
 5. [Usage](#usage)
@@ -22,7 +21,7 @@ This repository contains a variety of projects that I have completed during my s
 
 ## Projects
 
-### Project 1: Project Name
+### Project 1: Air Line Managment System
 
 **Description**: The Airline Management System is a comprehensive software application developed for managing airline operations. 
 This project, created for my database course, demonstrates my skills in C# programming, SQL database management, and using Windows Forms for a user-friendly interface.
@@ -34,17 +33,23 @@ The system facilitates various functionalities such as booking flights, managing
 >Development Environment: Visual Studio
 >User Interface: Windows Forms
 
-**Link**: [GitHub Repository](https://github.com/janassalem/AirLineManagmentSystem)
+**Link**: [GitHub Repository](https://github.com/janassalem/AirLineSystemManagment)
 
 ---
 
-### Project 2: Project Name
+### Project 2: Air Line System
 
-**Description**: Briefly describe the project, its purpose, and what you learned.
+*Description**: The Airline Management System is a comprehensive software application developed for managing airline operations. 
+This project, created for my database course, demonstrates my skills in C# programming, SQL database management, and using Windows Forms for a user-friendly interface.
+The system facilitates various functionalities such as booking flights, managing schedules, and handling customer information..
 
-**Technologies**: List the main technologies and tools used.
+**Technologies**: 
+>Programming Language: C#
+>Database: SQL
+>Development Environment: Visual Studio
+>User Interface: Windows Forms
 
-**Link**: [GitHub Repository](https://github.com/janassalem/project2)
+**Link**: [GitHub Repository](https://github.com/janassalem/AirlineSystem)
 
 ---
 
